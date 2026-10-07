@@ -1,0 +1,9 @@
+phi=22.0 / 7.0
+r=float(input(""))
+t=float(input(""))
+volume= phi*r*r*t
+luas= 2*phi*r*(r+t)
+keliling=2*phi*r
+print("Volume = %.2f" % volume)
+print("Luas = %.2f" % luas)
+print("Keliling = %.2f" % keliling)
