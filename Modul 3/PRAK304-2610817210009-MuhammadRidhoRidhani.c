@@ -11,7 +11,7 @@ if (bilangan>=1 && bilangan<=9){
 else if (bilangan>=20&&bilangan<=99){
     printf("Puluhan");
 }
-else if (bilangan>=10&&bilangan<=20){
+else if (bilangan>=10&&bilangan<=19){
     printf("Belasan");
 }
 else if (bilangan>99){
